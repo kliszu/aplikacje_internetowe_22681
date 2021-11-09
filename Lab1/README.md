@@ -1,4 +1,4 @@
-#Aplikacje Internetowe - Lab 1
+#Aplikacje Internetowe - Lab 1#
 ###Marcin Klisz - 195IC_A 22681
 
 Link do strony hostowanej na paltformie pythonanywhere.com:
