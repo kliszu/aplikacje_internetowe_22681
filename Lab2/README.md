@@ -9,7 +9,7 @@ kliszu.pythonanywhere.com
 
 ## 1.Widok panelu logowania
 
-![Panel logowania]()
+![Panel logowania](/assets/logowanie_1.png)
 
 ## 2. Widok panelu rejestracji
 
