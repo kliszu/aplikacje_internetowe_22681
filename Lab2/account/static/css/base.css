@@ -174,7 +174,7 @@ ul.messages li a.close {
 
 /* social-auth */
 .social {
-    float:right;
+    float: left;
 }
 .social li {
     list-style:none;
@@ -188,8 +188,7 @@ ul.messages li a.close {
     color:#fff;
 }
 .social li.facebook { background:#3b5399; }
-.social li.twitter { background:#00cffa; }
-.social li.google { background:#de1710; }
+.social li.amazon {background: #000000; }
 
 
 /* images */

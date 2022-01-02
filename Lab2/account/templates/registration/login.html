@@ -1,6 +1,8 @@
 {% extends "base.html" %}
 {% block title %}Log-in{% endblock %}
 {% block content %}
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v12.0&appId=657899485223661&autoLogAppEvents=1" nonce="RCX7ykxa"></script>
   <h1>Log-in</h1>
   {% if form.errors %}
     <p>
@@ -19,4 +21,14 @@
     </form>
   <p><a href="{% url "password_reset" %}">Forgotten your password?</a></p>
   </div>
+    <div class="social">
+    <ul>
+    <li class="facebook">
+    <a href="{% url "social:begin" "facebook" %}">Sign in with Facebook</a>
+    </li>
+    <li class="amazon">
+    <a href="{% url "social:begin" "amazon" %}">Sign in with amazon</a>
+    </li>
+    </ul>
+    </div>
 {% endblock %}

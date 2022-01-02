@@ -56,7 +56,33 @@ Po pomyślnym zakończeniu procesu zostaje wyświetlony stosowny komunikat.
 ![komunnikat o zmianie hasla](https://github.com/kliszu/aplikacje_internetowe_22681/blob/main/Lab2/assets/logowanie_11.png)
 
 
+<hr>
 
+# Lab 3 Różne sposoby uwierzytelniania 
+
+Strona została przetestowana na serwerze lokalnym, jako alternatywne sposoby uwierzytelniania wybrałem facebook oraz Amazon.
+
+### Widok panelu logowania z dodanymi przyciskami przekierowującymi do odpowiednich witryn
+
+![widok panelu logowania]()
+
+###Logowanie za pomocą facebooka
+
+Zostajemy przekierowani do strony facebooka gdzie musimy potwierdzić udostępnienie danych w postaci imienia i nazwiska oraz adresu mail
+
+![logowanie fb 1]()
+
+Po udanym zalogowaniu zostajemy przekierowani do strony dashboard
+
+![logowanie fb 2]()
+
+### Logowanie za pomocą amazon
+
+Analogicznie do fb, musimy się uprzednio zalogować następnie wyrazić zgodę na udsotępnienie danych.
+
+![logowanie amazon 1]()
+
+![logowanie amazon 2]()
 
 
 
