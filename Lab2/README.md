@@ -64,25 +64,25 @@ Strona została przetestowana na serwerze lokalnym, jako alternatywne sposoby uw
 
 ### Widok panelu logowania z dodanymi przyciskami przekierowującymi do odpowiednich witryn
 
-![widok panelu logowania]()
+![widok panelu logowania](https://github.com/kliszu/aplikacje_internetowe_22681/blob/main/Lab2/assets/Lab3/social_auth_1.png)
 
 ###Logowanie za pomocą facebooka
 
 Zostajemy przekierowani do strony facebooka gdzie musimy potwierdzić udostępnienie danych w postaci imienia i nazwiska oraz adresu mail
 
-![logowanie fb 1]()
+![logowanie fb 1](https://github.com/kliszu/aplikacje_internetowe_22681/blob/main/Lab2/assets/Lab3/fb_login_1.png)
 
 Po udanym zalogowaniu zostajemy przekierowani do strony dashboard
 
-![logowanie fb 2]()
+![logowanie fb 2](https://github.com/kliszu/aplikacje_internetowe_22681/blob/main/Lab2/assets/Lab3/fb_login_2.png)
 
 ### Logowanie za pomocą amazon
 
 Analogicznie do fb, musimy się uprzednio zalogować następnie wyrazić zgodę na udsotępnienie danych.
 
-![logowanie amazon 1]()
+![logowanie amazon 1](https://github.com/kliszu/aplikacje_internetowe_22681/blob/main/Lab2/assets/Lab3/amazon_login_2.png)
 
-![logowanie amazon 2]()
+![logowanie amazon 2](https://github.com/kliszu/aplikacje_internetowe_22681/blob/main/Lab2/assets/Lab3/amazon_login_3.png)
 
 
 
