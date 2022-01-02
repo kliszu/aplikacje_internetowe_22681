@@ -5,7 +5,7 @@
 
 ### Link do aplikacji:
 
-kliszu.pythonanywhere.com
+http://kliszu.pythonanywhere.com/account/login/
 
 ## 1.Widok panelu logowania
 
