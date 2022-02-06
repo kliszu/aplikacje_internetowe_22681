@@ -36,7 +36,7 @@ Jak widzimy tylko admin - autor posta, może go edytować
 
 ###Dokumentacja
 
-Pod adresem /redoc/ jest dostępna dokumentacja wygenerowana przez openapi
+Pod adresem /redoc/ jest dostępna dokumentacja naszego api
 
 [screen_docs](screenshots/docs.png)
 
